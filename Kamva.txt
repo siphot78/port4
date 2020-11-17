@@ -1,0 +1,128 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
+<link rel="stylesheet" href="sipho's.css" type="text/css">
+<title>My Portfolio</title>
+</head>
+<body>
+<div class="box-area">
+<header>
+<div class="wrapper">
+<div class="logo">
+<a href="#">Sipho Tywele</a>
+</div>
+<nav>
+<a href="#" >Home</a>
+<a href="#" >Project</a>
+<a href="#" >About</a>
+<a href="#" >Contact</a>
+</nav>
+</div>
+</header>
+<section id="banner-area">
+<div class="banner-area">
+<h2>My Portfolio</h2>
+<br><br><br><br><br>
+<a href="projects" type="button" class="cta">Learn more</a>
+</div>
+</section>
+<br><br>
+<section Id="projects">
+<div class="projects wrapper">
+<div class="projects-header">
+ <h1 class="section-title"> Projects</h1>
+  </div>
+<div class="all-projects">
+<div class="project-item">
+<div class="project-info">
+<h4>Project1</h4>
+<br><br>
+<p>It is a long established fact a reader will be distracted by the readable content of a page when looking at its layout.</p>
+<footer>
+ <a href="Lorem Ipsum is that it has a more" >See more</a>
+ </footer>
+</p>
+</div>
+
+<div class="project-item">
+<div class="project-info">
+<h4>Project2</h4>
+<br><br>
+<p>It is a long established fact a reader will be distracted by the readable content of a page when looking at its layout.The point of using lorem Ipsum is that it has more-or-less normal distribution</p>
+ 
+<footer>
+ <a href="Lorem Ipsum is that it has a more" >See more</a>
+ </footer>
+</p>
+</div>
+<div class="project-item">
+<div class="project-info">
+<h4>Project3</h4>
+<br><br>
+<p>It is a long established fact a reader will be distracted by the readable content of a page when looking at its layout.The point of using lorem Ipsum is that it has more-or-less normal distribution</p>
+ 
+<footer>
+ <a href="chew-foot-shake-treat-bag" >See more</a>
+ </footer>
+</p>
+</div>
+<h1>ABOUT</h1>
+</section>
+<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+<section ID="about">
+<div class="about wrapper">
+<div class="about-img">
+<img src="1.jpg" width="250">
+</div>
+<div class="section-title">
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+<h2 float="center">ABOUT</h2>
+</div>
+<div class="about-name">
+<br>
+<p>I'm Sipho Tywele I'm located in litha park, I've started loving 
+ computer since I was young.My first encounter with computer was at masakhane library 
+ where I was helped by the librarian on how to search on a computer.
+ Since then I had fallen in love with computer's and i did IT at school and partly know how to fix computer's
+ my hobbie i love cricket and making beats</p>
+</div>
+</div>
+</section>
+<section id="contact">
+    <div class="contact container">
+      <div><h1 class="section-title">Contact <span>info</span></h1></div>
+      <div class="contact-items">
+        <div class="contact-item">
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png"/></div>
+          <div class="contact-info">
+            <h1>Phone</h1>
+            <h2>0727973801</h2>
+            
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png"/></div>
+          <div class="contact-info">
+            <h1>Email</h1>
+            <h2>Tywelesipho78@gmail.com</h2>
+            
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png"/></div>
+          <div class="contact-info">
+            <h1>Address</h1>
+            <h2>litha,khayelitsha,Cape town</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
